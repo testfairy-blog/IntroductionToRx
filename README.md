@@ -1,2 +1,2 @@
 # IntroductionToRx
-Swift
+Rx examples written in Swift. Check out *ViewController.swift" file.
