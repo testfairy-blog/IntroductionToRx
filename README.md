@@ -1,2 +1,2 @@
 # IntroductionToRx
-Rx examples written in Kotlin. Check out *MainActivity.kt* file.
+Rx examples written in Swift. Check out *ViewController.swift* file.
