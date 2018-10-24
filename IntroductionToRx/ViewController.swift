@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         observableExample()
         
         coldObservableCreate()
+        hotObservableCreate()
     }
 
     func arrayExample() {
